@@ -1,0 +1,1 @@
+﻿{"ContextClassName":"RoulettegameContext","DefaultDacpacSchema":null,"IdReplace":false,"IncludeConnectionString":true,"OutputPath":"Models","ProjectRootNamespace":"RouletteGame","SelectedToBeGenerated":0,"Tables":["dbo.card","dbo.coin","dbo.game","dbo.room","dbo.user"],"UseDatabaseNames":false,"UseFluentApiOnly":true,"UseHandleBars":false,"UseInflector":false}
