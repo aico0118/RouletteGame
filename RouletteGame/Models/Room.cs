@@ -15,7 +15,7 @@ namespace RouletteGame.Models
         public string Name { get; set; }
         public int LimitUsers { get; set; }
         public string Creator { get; set; }
-        public string IsActive { get; set; }
+        public bool IsActive { get; set; }
         public DateTime CreDate { get; set; }
         public DateTime? UpdDate { get; set; }
 
